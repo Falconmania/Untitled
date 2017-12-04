@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("hello wordld");
         System.out.println("broken");
+        System.out.println("thing");
     }
 }
